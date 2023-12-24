@@ -1,0 +1,22 @@
+.navBar__container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100vw;
+
+    background: var(--bgColor, var(--bgColor, #FFF));
+    z-index: 1000;
+}
+.header__links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 0px 20px;
+}
+.header__link{
+    font-weight: 500;
+}

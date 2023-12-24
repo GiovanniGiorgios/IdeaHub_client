@@ -1,0 +1,41 @@
+
+
+/* ***** PAGINATION ***** */
+.pagination{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+
+    background: rgb(255, 255, 255);
+
+    transform: translate(-50%);
+}
+.pagination_main{
+    display: flex;
+    flex-direction: row; 
+    gap: 20px;
+
+    padding: 15px;
+
+}
+.paginationBtn{
+    font-size: 20px;
+}
+.prev{
+
+}
+.next{
+
+}
+.pagination_togglero{
+
+}
+.pagination_expanded{
+    display: none;
+}
+.pagination_expanded__active{
+    display: block;
+}
+.expanded_btn{
+
+}

@@ -1,0 +1,49 @@
+.navBarLeft__container{
+    position: sticky;
+    top: 50px;
+    width: 240px;
+    height: calc(100vh - 50px);
+    background: var(--bgColor, var(--bgColor, #FFF));
+}
+.navBarLeft__section{
+    padding: 0px 24px 0px 12px;
+    border-bottom: 1px solid rgb(57, 57, 57);
+}
+.navBarLeft__part{
+    border-bottom: 1px solid rgb(57, 57, 57);
+    padding-top: 12px;
+}
+.navBarLeft__part:last-child{
+    border-bottom: none;
+}
+.navBarLeft__item{
+    border-radius: 10px;
+    padding: 8px 12px;
+    justify-content: left;
+    align-items: center;
+
+    display: flex;
+    flex: row;
+    gap: 24px;
+
+    cursor: pointer;
+
+    transition: background 0.1s linear;
+}
+.navBarLeft__item__active{
+    background: rgb(39, 39, 39);
+}
+.navBarLeft__item:last-child{
+    margin-bottom: 13px;
+}
+.navBarLeft__item:hover{
+    background: rgb(61, 61, 61);
+}
+.navBarLeft__item_img{
+    max-width: 24px;
+}
+.navBarLeft__item_p{
+    font-size: 14px;
+    text-align: left;
+    margin: auto 0;
+}
