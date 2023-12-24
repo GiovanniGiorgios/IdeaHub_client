@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IdeaHub_client/static/css/main.8414c5c0.css",
+    "main.js": "/IdeaHub_client/static/js/main.c6d533e8.js",
+    "static/media/Roboto_Regular.woff2": "/IdeaHub_client/static/media/Roboto_Regular.7265ad730e5356df22c1.woff2",
+    "static/media/Roboto_Regular.eot": "/IdeaHub_client/static/media/Roboto_Regular.e12db864511b9174f644.eot",
+    "static/media/Roboto_Bold.woff2": "/IdeaHub_client/static/media/Roboto_Bold.4ae5300a1acc55ad04a1.woff2",
+    "static/media/Roboto_Bold.eot": "/IdeaHub_client/static/media/Roboto_Bold.7f894fd873c265289418.eot",
+    "static/media/Roboto_Medium.woff2": "/IdeaHub_client/static/media/Roboto_Medium.34cc80a1e61b6554ccc3.woff2",
+    "static/media/Roboto_Medium.eot": "/IdeaHub_client/static/media/Roboto_Medium.423872e4c12ee83a8343.eot",
+    "static/media/Roboto_Medium.woff": "/IdeaHub_client/static/media/Roboto_Medium.f859c5a22f95992860eb.woff",
+    "static/media/Roboto_Bold.woff": "/IdeaHub_client/static/media/Roboto_Bold.bd043ecb53be565278f4.woff",
+    "static/media/Roboto_Regular.woff": "/IdeaHub_client/static/media/Roboto_Regular.457c92bb62734e3030ed.woff",
+    "static/media/LogoSvg.svg": "/IdeaHub_client/static/media/LogoSvg.ddacbb5a172af7d2a635ca87914a349f.svg",
+    "index.html": "/IdeaHub_client/index.html",
+    "static/media/house.svg": "/IdeaHub_client/static/media/house.c0e919d6762d21791db274b07e27f56a.svg",
+    "main.8414c5c0.css.map": "/IdeaHub_client/static/css/main.8414c5c0.css.map",
+    "main.c6d533e8.js.map": "/IdeaHub_client/static/js/main.c6d533e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8414c5c0.css",
+    "static/js/main.c6d533e8.js"
+  ]
+}
