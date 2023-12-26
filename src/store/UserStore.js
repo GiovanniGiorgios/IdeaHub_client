@@ -76,7 +76,7 @@
             this.setLoading(true);
             
             try {
-                const response = await axios.get(process.env.REACT_APP_API_URL, {withCredentials: true});
+                const response = await axios.get(process.env.REACT_APP_API_URL + '/api/user/refresh', {withCredentials: true});
                 
                 localStorage.setItem('token', response.accessToken);//щоб ми могли добавляти в кожному запросі
                 this.setIsAuth(true);
